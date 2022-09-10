@@ -1,2 +1,2 @@
-# sud_portfolio
+# sud_portfolio.github.io
 Example data analyst portfolio
